@@ -1,0 +1,177 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "28e7533ade188107e06fab228012ba44"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "4202808df745f2ac7ab250606fa0d272"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "fa238f48f9a2ab93b0c59a116e831bca"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "11bee19e86e8eda2cf9a60efd975666d"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "e9e5c3efbaa696d1490988cf5b30e23b"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "700105c316933a8202041b6415abb233"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "9b7d020c55e2b4f77ab40c97f88f9ff4"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "ff4392540fcf4c3d3f5e03806e112816"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "cf04dfd5c3cc64e0be44692fe7d976a6"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/hbh",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/hbh/index.html",
+        "type": "file",
+        "md5": "f9b502897b3b01c8ea1632c2eed20bce"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "0bb7e831469035b7a9fc049d5918fc63"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "0d1c23652b608423c9a5bc106a63f73f"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "1e2308c325c7ba958ce2896a747abee0"
+    },
+    {
+        "path": "mortise-lock-the-complete-guide-to-strength-design-and-security",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/mortise-lock-the-complete-guide-to-strength-design-and-security/index.html",
+        "type": "file",
+        "md5": "ff14fd9b638518ae17ec811989b08e73"
+    },
+    {
+        "path": "mortise-lock-the-ultimate-guide-to-durability-security-and-style",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/mortise-lock-the-ultimate-guide-to-durability-security-and-style/index.html",
+        "type": "file",
+        "md5": "0e9842e9f0415384e40314ae40b53c92"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "9dff02b4a36e15526d32c6c367d8cdf8"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "3727ef5982248296ce9b4a40a0c47201"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "c137222f61f66e31ae95f4d4d899f35d"
+    },
+    {
+        "path": "the-signature-of-power-and-elegance-trump-perfume",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/the-signature-of-power-and-elegance-trump-perfume/index.html",
+        "type": "file",
+        "md5": "764b577b1a00679165f1089bc8711c3f"
+    },
+    {
+        "path": "trump-perfume-a-bold-fragrance-that-defines-power-and-prestige",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/trump-perfume-a-bold-fragrance-that-defines-power-and-prestige/index.html",
+        "type": "file",
+        "md5": "61e06ea988423c1e1b06cb3bd264e3b8"
+    },
+    {
+        "path": "trump-perfume-the-ultimate-expression-of-power-success-and-sophistication",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/trump-perfume-the-ultimate-expression-of-power-success-and-sophistication/index.html",
+        "type": "file",
+        "md5": "988551ab2a9b7d481145256b83e434ac"
+    }
+]
